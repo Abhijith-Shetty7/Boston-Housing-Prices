@@ -1,4 +1,4 @@
-# Model Evaluation and Validation (Udacity Machine Learning Engineer Nanodegree)
+# Model Evaluation and Validation (Udacity Nanodegree)
 ## Project: Predicting Boston Housing Prices
 
 ### Install
